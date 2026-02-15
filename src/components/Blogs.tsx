@@ -46,7 +46,7 @@ export default function Blogs() {
         return (
             <section id="blogs" className="py-20 max-w-5xl mx-auto px-6">
                 <h2 className="text-sm font-bold uppercase tracking-widest text-gray-500 mb-12">Latest Writing</h2>
-                <div className="grid md:grid-cols-3 gap-8">
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                     {[1, 2, 3].map((i) => (
                         <div key={i} className="h-64 bg-gray-100 rounded-2xl animate-pulse" />
                     ))}
@@ -61,7 +61,7 @@ export default function Blogs() {
         <section id="blogs" className="py-20 max-w-5xl mx-auto px-6">
             <h2 className="text-sm font-bold uppercase tracking-widest text-gray-500 mb-12">Latest Writing</h2>
 
-            <div className="grid md:grid-cols-3 gap-8">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                 {posts.map((post) => (
                     <a
                         key={post.guid}
