@@ -1,0 +1,111 @@
+{
+  "personal": {
+    "name": "Adesh Anurag",
+    "role": "ML Engineer & Researcher",
+    "specialization": "specializing in Agentic RAG and Predictive Modeling",
+    "email": "adesh.anurag@example.com",
+    "social": {
+      "github": "https://github.com",
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com"
+    }
+  },
+  "about": {
+    "summary": "I expert in bridging academic research and production-ready AI via metadata-aware NLP pipelines and high-fidelity industrial systems",
+    "avatar": "/placeholder-avatar.jpg"
+  },
+  "experience": [
+    {
+      "id": 1,
+      "role": "AI Research Intern",
+      "company": "Indian Institute of Technology, Guwahati",
+      "duration": "June 2025 – July 2025",
+      "description": "Developed predictive maintenance pipelines for military vehicles, enhancing operational reliability."
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "B. Tech in Civil Engineering",
+      "institution": "Dr BR Ambedkar National Institute of Technology, Jalandhar",
+      "duration": "2023 – 2027",
+      "description": ""
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "AI Literary Question Generator",
+      "description": "An automated system for generating deep literary questions from text using advanced NLP techniques.",
+      "tech": [
+        "Python",
+        "NLP",
+        "Transformers"
+      ],
+      "link": "https://github.com/adexxhh/AI-Literary-Question-Generator",
+      "github": "https://github.com/adexxhh/AI-Literary-Question-Generator"
+    },
+    {
+      "id": 2,
+      "title": "Predictive Maintenance Research",
+      "description": "Developed predictive maintenance pipelines for military vehicles during research internship at IIT Guwahati.",
+      "tech": [
+        "Python",
+        "Scikit-learn",
+        "Pandas"
+      ],
+      "link": "https://github.com/adexxhh/iitg-ml-research",
+      "github": "https://github.com/adexxhh/iitg-ml-research"
+    },
+    {
+      "id": 3,
+      "title": "AQI-Based Respiratory Disease Evaluator",
+      "description": "An intelligent Flask-based web application that predicts respiratory diseases and health risks based on local AQI levels.",
+      "tech": [
+        "Flask",
+        "Scikit-Learn",
+        "Pandas"
+      ],
+      "link": "https://github.com/adexxhh/CueTheAQI",
+      "github": "https://github.com/adexxhh/CueTheAQI"
+    }
+  ],
+  "quotes": [
+    {
+      "id": 1,
+      "text": "The best way to predict the future is to invent it.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 2,
+      "text": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 3,
+      "text": "Talk is cheap. Show me the code.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 4,
+      "text": "Data is a precious thing and will last longer than the systems themselves.",
+      "author": "Tim Berners-Lee"
+    },
+    {
+      "id": 5,
+      "text": "The question of whether machines can think is about as relevant as the question of whether submarines can swim.",
+      "author": "Edsger W. Dijkstra"
+    },
+    {
+      "id": 6,
+      "text": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson"
+    }
+  ],
+  "contact": {
+    "email": "adeshanurag50@gmail.com",
+    "github": "https://github.com/adexxhh",
+    "linkedin": "https://linkedin.com/in/adesh-anurag",
+    "message": "Interested in working together? Let's connect."
+  }
+}
