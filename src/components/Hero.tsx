@@ -34,7 +34,7 @@ export default function Hero() {
                             View Projects
                         </Link>
                         <a
-                            href="/resume.pdf"
+                            href="/resume-new.pdf"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="px-6 py-3 border border-gray-200 text-gray-900 font-medium rounded-full hover:bg-gray-50 transition-colors"
