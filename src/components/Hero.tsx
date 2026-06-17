@@ -14,7 +14,7 @@ export default function Hero() {
                             revealDirection="start"
                             sequential={true}
                             speed={100}
-                            once={false}
+                            once={true}
                             className="text-4xl md:text-7xl font-bold tracking-tight mb-6"
                             parentClassName="block break-words max-w-full overflow-hidden"
                         />

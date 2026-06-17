@@ -5,8 +5,8 @@
     "specialization": "specializing in Agentic RAG and Predictive Modeling",
     "email": "adesh.anurag@example.com",
     "social": {
-      "github": "https://github.com",
-      "linkedin": "https://linkedin.com",
+      "github": "https://github.com/adexxhh",
+      "linkedin": "https://linkedin.com/in/adesh-anurag",
       "twitter": "https://twitter.com"
     }
   },
@@ -16,11 +16,22 @@
   },
   "experience": [
     {
+      "id": 2,
+      "role": "ML Intern",
+      "company": "Matters.AI (www.matters.ai)",
+      "duration": "June 2026 - present",
+      "description": "Contributing to the development of AI security engineer features for contextual intelligence and behavioral analysis.",
+      "logo": "/matters-ai-logo.png",
+      "website": "https://www.matters.ai"
+    },
+    {
       "id": 1,
       "role": "AI Research Intern",
       "company": "Indian Institute of Technology, Guwahati",
       "duration": "June 2025 – July 2025",
-      "description": "Developed predictive maintenance pipelines for military vehicles, enhancing operational reliability."
+      "description": "Developed predictive maintenance pipelines for military vehicles, enhancing operational reliability.",
+      "logo": "/iitg-logo.svg",
+      "website": "https://iitg.ac.in"
     }
   ],
   "education": [
